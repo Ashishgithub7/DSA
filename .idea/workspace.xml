@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotatedShortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotatedShortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotatedShortedArrayUnique.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.RotatedShortedArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -45,6 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/DSA/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1739536937913</updated>
       <workItem from="1739536939205" duration="1130000" />
-      <workItem from="1739555654696" duration="786000" />
+      <workItem from="1739555654696" duration="1577000" />
+      <workItem from="1739636655992" duration="3775000" />
     </task>
     <servers />
   </component>
