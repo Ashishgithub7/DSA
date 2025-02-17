@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BSRowColSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BSRowColSortedArray.executor": "Run",
     "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.RotatedShortedArray.executor": "Run",
     "Application.SplitArrayLargestSum.executor": "Run",
@@ -70,7 +71,8 @@
       <workItem from="1739536939205" duration="1130000" />
       <workItem from="1739555654696" duration="1577000" />
       <workItem from="1739636655992" duration="4044000" />
-      <workItem from="1739725543227" duration="2476000" />
+      <workItem from="1739725543227" duration="2904000" />
+      <workItem from="1739806226796" duration="2152000" />
     </task>
     <servers />
   </component>
