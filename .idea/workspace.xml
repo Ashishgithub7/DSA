@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorted2DArraySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorted2DArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorted2DArraySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "Application.BSRowColSortedArray.executor": "Run",
     "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.RotatedShortedArray.executor": "Run",
-    "Application.Sorted2DArraySearch.executor": "Debug",
+    "Application.Sorted2DArraySearch.executor": "Run",
     "Application.SplitArrayLargestSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,7 +75,9 @@
       <workItem from="1739725543227" duration="2904000" />
       <workItem from="1739806226796" duration="2266000" />
       <workItem from="1739896422830" duration="3574000" />
-      <workItem from="1739900306378" duration="978000" />
+      <workItem from="1739900306378" duration="1326000" />
+      <workItem from="1739964401985" duration="20000" />
+      <workItem from="1739980040677" duration="735000" />
     </task>
     <servers />
   </component>
@@ -89,11 +91,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sorted2DArraySearch.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

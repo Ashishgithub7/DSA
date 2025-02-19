@@ -8,7 +8,7 @@ public class Sorted2DArraySearch {
                            {4,5,6},
                            {7,8,9}};
 
-        int target = 6;
+        int target = 9;
 
         System.out.println(Arrays.toString(search(matrix,target)));
     }
@@ -67,17 +67,17 @@ public class Sorted2DArraySearch {
           }
 
 //          NOW CHECKING FOR TARGET IN FIRST PART ie. 1 HERE
-        if(target < arr[rStart][cMid - 1]){
+        if(target <= arr[rStart][cMid - 1]){
             return BS(arr, target, rStart, 0, cMid - 1);
         }
 
 //          NOW CHECKING FOR TARGET IN SECOND PART ie. 7,8  HERE
-        if(target > arr[rStart][cMid + 1] &&  target < arr[rStart][cols - 1]){
+        if(target >= arr[rStart][cMid + 1] &&  target <= arr[rStart][cols - 1]){
            return BS(arr, target, rStart, cMid + 1, cols - 1 );
         }
 
 //          NOW CHECKING FOR TARGET IN THIRD PART ie. 9 HERE
-        if(target < arr[rStart + 1][cMid - 1]){
+        if(target <= arr[rStart + 1][cMid - 1]){
            return BS(arr, target, rStart + 1, 0, cMid - 1);
         }else{
             return  BS(arr, target, rStart + 1, cMid +  1, cols - 1);
