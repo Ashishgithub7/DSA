@@ -1,5 +1,6 @@
+package Searching;
+
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class BSRowColSortedArray {
     public static void main(String [] args){

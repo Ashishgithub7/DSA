@@ -1,3 +1,5 @@
+package Searching;
+
 public class SplitArrayLargestSum {
 //    Question number 410 at Leetcode
     public static void main(String [] args){

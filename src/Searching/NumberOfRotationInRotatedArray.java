@@ -1,3 +1,5 @@
+package Searching;
+
 public class NumberOfRotationInRotatedArray {
     public static void main(String[] args) {
         int[] nums = {1};
