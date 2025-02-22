@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SpiralArrayII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayFromPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayFromPermutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Application.RotatedShortedArray.executor": "Run",
     "Application.Sorted2DArraySearch.executor": "Run",
     "Application.SpiralArray.executor": "Run",
+    "Application.SpiralArrayII.executor": "Run",
     "Application.SplitArrayLargestSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -84,7 +85,8 @@
       <workItem from="1739980040677" duration="735000" />
       <workItem from="1739987587510" duration="1356000" />
       <workItem from="1740068532681" duration="4277000" />
-      <workItem from="1740155803455" duration="1382000" />
+      <workItem from="1740155803455" duration="1761000" />
+      <workItem from="1740242155184" duration="1648000" />
     </task>
     <servers />
   </component>
