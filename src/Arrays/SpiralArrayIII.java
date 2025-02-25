@@ -27,28 +27,30 @@ public class SpiralArrayIII {
 
         while(element <= totalElements){
 
+//            FOR ROWS CHANGE
+            for(int i = 0 ; i < times ; i++){
+//                if(c<cols && cols>=0 &&  r<rows && rows>=0)
+                    if (rStart >= 0 && rStart < rows && cStart >= 0 && cStart < cols){
+                    matrix[rStart][cStart] = element;
+                    ans[row]= new int[]{rStart, cStart};
+                    element++; /* increment matrix element value */
+                    row++;  /* increment rows in answer array */
+                }
+                rStart = (op.equals("+")) ? rStart + 1 : rStart - 1; /* shift row */
+            }
+            times++;
+            op = (op.equals("+")) ? "-" : "+";
+
 //            FOR COLUMN ADD ELEMENT AND SHIFT
             for(int i = 0 ; i < times ; i++){
                 if(rStart<rows && rStart>=0 &&  cStart<cols && cStart>=0){
                    matrix[rStart][cStart] = element;
                    ans[row]= new int[]{rStart, cStart};
                    element++; /* increment matrix element value */
-                   row++;  /* increment rows in ans array */
+                   row++;  /* increment rows in answer array */
                 }
                 cStart = (op.equals("+")) ? cStart + 1 : cStart - 1; /* shift column */
             }
-//            FOR ROWS CHANGE
-            for(int i = 0 ; i < times ; i++){
-                if(cStart<cols && cols>=0 &&  rStart<rows && rows>=0){
-                    matrix[rStart][cStart] = element;
-                    ans[row]= new int[]{rStart, cStart};
-                    element++; /* increment matrix element value */
-                    row++;  /* increment rows in ans array */
-                }
-                rStart = (op.equals("+")) ? rStart + 1 : rStart - 1; /* shift row */
-            }
-            times++;
-            op = (op.equals("+")) ? "-" : "+";
         }
         System.out.println(Arrays.deepToString(ans));
 
