@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SetMatrixZeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SpiralArrayIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SpiralArrayIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/spiral4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Application.FirstAndLastIndexOfElementInSortedArray.executor": "Run",
     "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.RotatedShortedArray.executor": "Run",
+    "Application.SetMatrixZeros.executor": "Run",
     "Application.Sorted2DArraySearch.executor": "Run",
     "Application.SpiralArray.executor": "Run",
     "Application.SpiralArrayII.executor": "Run",
@@ -90,7 +92,8 @@
       <workItem from="1740242155184" duration="1878000" />
       <workItem from="1740331506269" duration="4207000" />
       <workItem from="1740418953109" duration="418000" />
-      <workItem from="1740503923177" duration="1688000" />
+      <workItem from="1740503923177" duration="2058000" />
+      <workItem from="1740587947478" duration="313000" />
     </task>
     <servers />
   </component>
