@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SetMatrixZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/spiral4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,35 +31,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayFromPermutation.executor": "Run",
-    "Application.BSRowColSortedArray.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.FirstAndLastIndexOfElementInSortedArray.executor": "Run",
-    "Application.NumberOfRotationInRotatedArray.executor": "Run",
-    "Application.RotatedShortedArray.executor": "Run",
-    "Application.SetMatrixZeros.executor": "Run",
-    "Application.Sorted2DArraySearch.executor": "Run",
-    "Application.SpiralArray.executor": "Run",
-    "Application.SpiralArrayII.executor": "Run",
-    "Application.SpiralArrayIII.executor": "Run",
-    "Application.SplitArrayLargestSum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/DSA/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayFromPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BSRowColSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstAndLastIndexOfElementInSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfRotationInRotatedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArrayExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedShortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetMatrixZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorted2DArraySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralArrayII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralArrayIII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitArrayLargestSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/DSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,7 +93,9 @@
       <workItem from="1740331506269" duration="4207000" />
       <workItem from="1740418953109" duration="418000" />
       <workItem from="1740503923177" duration="2058000" />
-      <workItem from="1740587947478" duration="313000" />
+      <workItem from="1740587947478" duration="660000" />
+      <workItem from="1740670810467" duration="1678000" />
+      <workItem from="1740672732720" duration="326000" />
     </task>
     <servers />
   </component>
