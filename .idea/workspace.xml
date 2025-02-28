@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
     "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.RotatedShortedArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.SetMatrixZeros.executor": "Run",
     "Application.Sorted2DArraySearch.executor": "Run",
     "Application.SpiralArray.executor": "Run",
@@ -96,7 +98,7 @@
       <workItem from="1740587947478" duration="660000" />
       <workItem from="1740670810467" duration="1678000" />
       <workItem from="1740672732720" duration="1392000" />
-      <workItem from="1740753327629" duration="1032000" />
+      <workItem from="1740753327629" duration="3835000" />
     </task>
     <servers />
   </component>
@@ -115,6 +117,15 @@
           <url>file://$PROJECT_DIR$/src/Searching/FirstAndLastIndexOfElementInSortedArray.java</url>
           <line>31</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sorting/SelectionSort.java</url>
+          <line>19</line>
+          <properties class="Sorting.SelectionSort" method="findMax">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
