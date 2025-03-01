@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7ae4a2-a683-4a9f-9cd5-273ba152d35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.BSRowColSortedArray.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.FirstAndLastIndexOfElementInSortedArray.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.JumpGame.executor": "Run",
     "Application.NumberOfRotationInRotatedArray.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
@@ -98,7 +99,8 @@
       <workItem from="1740587947478" duration="660000" />
       <workItem from="1740670810467" duration="1678000" />
       <workItem from="1740672732720" duration="1392000" />
-      <workItem from="1740753327629" duration="3835000" />
+      <workItem from="1740753327629" duration="4560000" />
+      <workItem from="1740846441785" duration="295000" />
     </task>
     <servers />
   </component>
@@ -117,15 +119,6 @@
           <url>file://$PROJECT_DIR$/src/Searching/FirstAndLastIndexOfElementInSortedArray.java</url>
           <line>31</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sorting/SelectionSort.java</url>
-          <line>19</line>
-          <properties class="Sorting.SelectionSort" method="findMax">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
