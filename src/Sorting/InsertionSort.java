@@ -3,13 +3,13 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void main(String[] args) {
-        int [] nums = {2,8,9,3,6,10,-1,0,6,0};
+        int [] nums = {5,3,4,2,1};
         System.out.println(Arrays.toString(IS(nums)));
     }
 
     public static int[] IS(int[] nums) {
 
-        for(int i = 0; i < nums.length - 1; i++) { /* i is used to tell j which number to sort after each Pass */
+        for(int i = 0; i < nums.length - 1 ; i++) { /* i is used to tell j which number to sort after each Pass */
             for(int j = i + 1; j > 0; j--) { /* j starts from i+1, and shift left with the number if swapped for further checking upto index 1 */
                 if(nums[j] < nums[j - 1]) {
                     swap(nums,j,j-1);
